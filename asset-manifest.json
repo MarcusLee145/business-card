@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarcusLee145/business-card.git/static/css/main.2b6b4189.css",
+    "main.js": "/MarcusLee145/business-card.git/static/js/main.5745b53b.js",
+    "index.html": "/MarcusLee145/business-card.git/index.html",
+    "main.2b6b4189.css.map": "/MarcusLee145/business-card.git/static/css/main.2b6b4189.css.map",
+    "main.5745b53b.js.map": "/MarcusLee145/business-card.git/static/js/main.5745b53b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b6b4189.css",
+    "static/js/main.5745b53b.js"
+  ]
+}
