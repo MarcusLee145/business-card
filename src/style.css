@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #1E5128;
+    max-width: 500px;
+    max-height: 550px;
+    align-items: center;
+}
+.main {
+    background-color: #191A19;
+    margin-left: 25%;
+    margin-right: 25%;
+    position: absolute;
+    max-width: 3000px;
+    border: #4E9F3D;
+    border-style: solid;
+    border-radius: 5px;;
+}
+.card {
+    margin-left: 0%;
+    border-style: solid;
+    border-color: #D8E9A8;
+}
+.profilePic {
+    height: 350px;
+    width: 300px;
+    margin-left: 35%;
+    margin-top: 10px;
+}
+.name {
+    color: #fff;
+    font-family: Bebas Neue;
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 40%;
+}
+.role {
+    color: #4E9F3D;
+    font-family: Bebas Neue;
+    font-size: 16px;
+    margin-left: 41.5%;
+    margin-top: 5px;
+}
+.icons {
+    display: flex;
+    
+}
+.github {
+    background-color: #fff;
+    margin-left: 25%;
+    width: 125px;
+    border-radius: 25px;
+}
+.githubIcon {
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    margin-left: 31%;
+    margin-top: 4%;
+    padding: 1px;
+}
+.email {
+    background-color: #fff;
+    margin-left: 6%;
+    width: 125px;
+    border-radius: 25px;
+}
+.emailIcon {
+    height: 55px;
+    width: 55px;
+    background-color: #fff;
+    margin-left: 30%;
+    margin-top: 4%;
+    padding: 1px;
+}
+.linkdn {
+    background-color: #fff;
+    width: 135px;
+    margin-left: 6%;
+    border-radius: 25px;
+}
+.linkdnIcon {
+    height: 55px;
+    width: 55px;
+    margin-left: 32%;
+    margin-top: 4%;
+    padding: 1px;
+}
+.subHeading {
+    font-family: Bebas Neue;
+    font-size: 35px;
+    color: #fff;
+    font-weight: 200;
+    margin-left: 28%;
+    margin-bottom: 2.5%;
+}
+.para {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 30%;
+    margin-right: 20%;
+    line-height: 25px;
+    
+}
+footer {
+    background-color: #21222A;
+    width: 100%;
+    text-align: right;
+}
+small {
+    background-color: #21222A;
+    color: #4E9F3D;
+    text-align: right;
+    margin-right: 5%;
+}
+.popUp {
+    width: 250px;
+    height: 60px;
+    background-color: #4E9F3D;
+    display: block;
+}
